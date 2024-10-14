@@ -1,4 +1,4 @@
-<img src='Titanic_Generated.JPG' width="700" height="500" style="display: block; margin: 0 auto;">
+<img src='Titanic_Generated.jpg?raw=true' width="700" height="500" style="display: block; margin: 0 auto;">
 
 The Titanic dataset is a classic dataset often used in data science and machine learning to practice data analysis and modeling. This dataset contains information about the passengers and crew of the [RMS Titanic](https://www.encyclopedia-titanica.org/titanic/), including their survival status, demographic details, and ticket information.
 
